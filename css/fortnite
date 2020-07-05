@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML Image as link</title>
+      <title>Fort</title>
    </head>
    <body>
-      The following image works as a link:<br>
-      <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
-         width=150" height="70">
+      Fortni:<br>
+      <a href="https://image-cdn.essentiallysports.com/wp-content/uploads/20200630004117/fortnite-switch-hero.jpg">
+         <img alt="Fortnite" src="https://image-cdn.essentiallysports.com/wp-content/uploads/20200630004117/fortnite-switch-hero.jpg"
+         width=1920" height="1080">
       </a>
    </body>
 </html>
